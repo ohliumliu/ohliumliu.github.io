@@ -1,6 +1,10 @@
 main:
   - title: "Posts"
     url: /posts/
+  - title: "Serious stuff"
+    url: /research/
+  - title: "Fun stuff"
+    url: /fun/
   - title: "Categories"
     url: /categories/
   - title: "Tags"

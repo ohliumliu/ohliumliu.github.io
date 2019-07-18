@@ -78,6 +78,12 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ohiumliu"
 
+collections:
+  research:
+    output: true
+    permalink: /:categories/:title/
+
+
 defaults:
   # _posts
   - scope:
@@ -97,6 +103,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: article
+      author_profile: true
+      share: true
 
 category_archive:
   type: liquid
