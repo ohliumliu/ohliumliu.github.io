@@ -108,7 +108,7 @@ defaults:
       path: ""
       type: research
     values:
-      layout: article
+      layout: single
       author_profile: true
       share: true
 
