@@ -2,7 +2,34 @@
 permalink: /about/
 title: "About"
 ---
+<link href='//fonts.googleapis.com/css?family=Roboto:200,400,600' rel='stylesheet' type='text/css'>
+<link href='/assets/css/style.css' rel='stylesheet' type='text/css'>
+<div class="history-tl-container">
+  <ul class="tl">
+    <li class="tl-item" ng-repeat="item in retailer_history">
+      <div class="timestamp">
+        3rd March 2015
+      </div>
+      <div class="item-title">Start from Shire</div>
+      <div class="item-detail">Don't forget the ring</div>
+    </li>
+    <li class="tl-item" ng-repeat="item in retailer_history">
+      <div class="timestamp">
+        19th March 2015<br> 3:00 PM
+      </div>
+      <div class="item-title">Kill some Orcs</div>
+      <div class="item-detail">Don't enter the caves!!</div>
+    </li>
+    <li class="tl-item" ng-repeat="item in retailer_history">
+      <div class="timestamp">
+        1st June 2015<br> 7:00 PM
+      </div>
+      <div class="item-title">Throw that goddamn ring in the lava</div>
+      <div class="item-detail">Also, throw that Gollum too</div>
+    </li>
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+  </ul>
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+</div>
+
+
