@@ -82,6 +82,9 @@ collections:
   research:
     output: true
     permalink: /:categories/:title/
+  fun:
+    output: true
+    permalink: /:categories/:title/
 
 
 defaults:
@@ -111,6 +114,15 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # _fun
+  - scope:
+      path: ""
+      type: fun
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
 
 category_archive:
   type: liquid

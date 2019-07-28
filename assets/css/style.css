@@ -6,7 +6,7 @@ body{
 }
 .history-tl-container{
     font-family: "Roboto",sans-serif;
-  width:50%;
+  width:100%;
   margin:auto;
   display:block;
   position:relative;
@@ -46,16 +46,21 @@ body{
     transition: all 1000ms ease-in-out;
 }
 ul.tl li .item-title{
+    position: relative;
+    top: -70px;
 }
 ul.tl li .item-detail{
-    color:rgba(0,0,0,0.5);
+    position: relative;
+    top: -70px;
+    color:#FFFFFF;
     font-size:12px;
 }
 ul.tl li .timestamp{
     color: #8D8D8D;
     position: relative;
+    top: -15px;
     width:100px;
-    left: -80%;
+    left: -144px;
     text-align: left;
     font-size: 12px;
 }
