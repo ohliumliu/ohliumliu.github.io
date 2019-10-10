@@ -9,7 +9,7 @@ title: "About"
     <li class="tl-item" ng-repeat="item in retailer_history">
       <div class="timestamp">
         August, 2018 <br>
-        戊戌年，庚申月
+        戊戌年庚申月
       </div>
       <div class="item-title">RainSure<br>
        锐讯科技</div>
