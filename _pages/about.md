@@ -8,9 +8,9 @@ title: "About"
   <ul class="tl">
     <li class="tl-item" ng-repeat="item in retailer_history">
       <div class="timestamp">
-        Now <br>
+         <br>
       </div>
-      <div class="item-title">The Next<br>
+      <div class="item-title"><br>
       </div>
       <div class="item-detail"></div>
     </li>
