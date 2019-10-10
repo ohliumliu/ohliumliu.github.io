@@ -8,6 +8,15 @@ title: "About"
   <ul class="tl">
     <li class="tl-item" ng-repeat="item in retailer_history">
       <div class="timestamp">
+        Now <br>
+      </div>
+      <div class="item-title">The Next<br>
+      </div>
+      <div class="item-detail"></div>
+    </li>
+
+    <li class="tl-item" ng-repeat="item in retailer_history">
+      <div class="timestamp">
         August, 2018 <br>
         戊戌年庚申月
       </div>
