@@ -9,10 +9,10 @@ header:
   teaser: "/assets/images/candidacy.png"
 excerpt: ""
 og_image: "/assets/images/candidacy.png"
-link: https://drive.google.com/file/d/0ByN64Ec3dVceR3A0b3FCSEk3Vzg/view
+#link: https://drive.google.com/file/d/0ByN64Ec3dVceR3A0b3FCSEk3Vzg/view
 date: 2009-03-05 00:00:00 +0800
 ---
-As part of the requirement for graduation, three original research proposals were submitted to and reviewed by the thesis committee. One of them has to be well-removed from my field of study. I'd love to see someone interested in and pursue these studies.
+As part of the requirement for graduation, [three original research proposals](https://drive.google.com/file/d/0ByN64Ec3dVceR3A0b3FCSEk3Vzg/view) were submitted to and reviewed by the thesis committee. One of them has to be well-removed from my field of study. I'd love to see someone interested in and pursue these studies.
 
 1. Synchronization of nanoscopic “fireflies” revealed by single-molecule microscopy
 2. Two-dimensional mobility in lipid bilayer as a function of probe size measured by a single-molecule spring force gauge.
